@@ -1,2 +1,2 @@
-Coloque aqui as capturas de tela do phpMyAdmin e o diagrama do banco (DER).
-Depois, adicione-as ao README.md com: ![descricao](imagens/nome-do-arquivo.png)
+link do documento Word que estou fazendo o relatório do trabalho, ainda não esta concluído 
+https://1drv.ms/w/c/450d53c8c8e89760/IQBgLRDEngOMTqEo2ZGJ-nE3AWGxg_0n2WtJXQ4iKy_yY6M?e=AGyatG

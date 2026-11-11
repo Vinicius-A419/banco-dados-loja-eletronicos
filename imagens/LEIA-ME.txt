@@ -1,0 +1,2 @@
+Coloque aqui as capturas de tela do phpMyAdmin e o diagrama do banco (DER).
+Depois, adicione-as ao README.md com: ![descricao](imagens/nome-do-arquivo.png)
